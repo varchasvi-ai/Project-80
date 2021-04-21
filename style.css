@@ -1,0 +1,24 @@
+.container {
+    display: inline-flex;
+}
+
+#set2 {
+    margin-left: 300px;
+
+}
+
+button {
+
+    transition-duration: 0.4s;
+    height: 50px;
+    width: 200px;
+}
+  
+button:hover {
+    background-color: #008CBA; /* Green */
+    color: white;
+}
+
+.para {
+    margin-top: 200px;
+}
